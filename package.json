@@ -1,6 +1,6 @@
 {
   "name": "agent-ai",
-  "version": "0.3.164",
+  "version": "0.3.165",
   "description": "Ai agent abstraction",
   "main": "domain/index.js",
   "dockerHubUsername": "vcalatayud",
